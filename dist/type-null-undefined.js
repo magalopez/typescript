@@ -1,0 +1,10 @@
+let nullVar;
+nullVar = null;
+let otherVar = null;
+console.log('nullVar: ', nullVar);
+console.log('otherVar: ', otherVar);
+let undefinedVar = undefined;
+let otherUndefined = undefined;
+console.log('undefinedVar: ', undefinedVar);
+console.log('otherUndefined: ', otherUndefined);
+let albumName;
